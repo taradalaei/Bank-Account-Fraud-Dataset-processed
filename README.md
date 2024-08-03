@@ -1,0 +1,2 @@
+# Bank Account Fraud Dataset processed
+ This repository contains a comprehensive analysis of the Bank Account Fraud Dataset Suite. The project involves data preprocessing, exploratory data analysis (EDA), clustering, and classification to identify fraudulent transactions. The code demonstrates various data cleaning techniques, dimensionality reduction, and machine learning algorithms for classification.
